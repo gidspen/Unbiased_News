@@ -1,2 +1,2 @@
 # Unbiased_News
- Read news articles without biased language
+ Removes biases from articles
